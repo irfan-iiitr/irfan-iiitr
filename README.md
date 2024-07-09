@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **imtheansarirfan@gmail.com**
 
-- 📄 Know about my experiences [https://pink-trixie-7.tiiny.site/](https://pink-trixie-7.tiiny.site/)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1DnsT57mvShUxuE0u7H52MdRNWe87KQIS/view)
 
 - ⚡ Fun fact **The world Runs on 0s and 1s. Believe it or Not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irfan_k9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfan_k9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irfan-ansari-921b9825a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irfan-ansari-921b9825a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/irfan-ansari-921b9825a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irfan-ansari-921b9825a/" height="30" width="40" /></a>
 <a href="https://kaggle.com/irfanansariai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="irfanansariai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/irfan_iiitr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="irfan_iiitr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/imirfansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imirfansari" height="30" width="40" /></a>
