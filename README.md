@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">Thw World is a stage where every man must play a part, & mine is a tech savvy one.</h3>
 
-- 🌱 I’m currently learning **NextJS,**
-
-- 👯 I’m looking to collaborate on **NextJS Projects**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
