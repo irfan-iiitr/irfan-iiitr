@@ -14,8 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
+          GH_USERNAME: irfan-iiitr   # <-- Add your username here
           COMMIT_MSG: "⚡ Update recent activity"
           FILE_PATH: "README.md"
         env:
