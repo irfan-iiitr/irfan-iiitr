@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          USERNAME: Savvythelegend
+          USERNAME: irfan-iiitr
           UTC_OFFSET: 5.5
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
