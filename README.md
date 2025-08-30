@@ -102,12 +102,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irfan-iiitr&color=green" alt="Profile Views" />
-  <a href="https://twitter.com/Mehfooj194108">
-    <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social" alt="Twitter Follow" />
-  </a>
-  <a href="https://discord.com/invite/savvyethelegend">
-    <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&logo=discord&logoColor=white&color=5865F2" alt="Join Discord" />
-  </a>
   <a href="https://github.com/irfan-iiitr?tab=stars">
     <img src="https://img.shields.io/github/stars/irfan-iiitr?label=Star%20Gazers&style=social" alt="GitHub Stars" />
   </a>
@@ -118,7 +112,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 <p align="center">
   <strong>Always building something cool</strong> — <em>open to open source collaborations</em>, freelance work, and fun side-projects. <br>
-  <strong><a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">Let’s connect on LinkedIn</a></strong> ⚡
 </p>
 
 
