@@ -10,14 +10,11 @@
 </a>
 </details> 
 
-<details>
-  <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
 
 <details>
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
