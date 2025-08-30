@@ -1,33 +1,124 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">The World is a stage where every man must play a part, & mine is a tech savvy one.</h3>
+
+<details>
+  <br>
+  <br>
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/irfan-iiitr">
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/irfan-iiitr/irfan-iiitr/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Savvylegend GitHub Profile Details" />
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/irfan-iiitr/irfan-iiitr/main/profile-summary-card-output/github_dark/3-stats.svg" alt="irfan-iiitr GitHub Stats" />
+</a>
+</details> 
+
+<details>
+  <summary><b>🔄 GitHub Timeline</b></summary><br>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary><b>{;}⌨️ Developer Stats</b></summary><br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.2%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 49.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 714 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+🌆 Daytime                352 commits         ██████████░░░░░░░░░░░░░░░   39.51 % 
+🌃 Evening                293 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌙 Night                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Wednesday                188 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Thursday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Saturday                 157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Sunday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+```
 
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+📊 **This Week I Spent My Time On** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/irfan-iiitr](https://github.com/irfan-iiitr)
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-- 💬 Ask me about **Competitive Programming**
+🔥 Editors: 
+No Activity Tracked This Week
 
-- 📫 How to reach me **imtheansarirfan@gmail.com**
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1DnsT57mvShUxuE0u7H52MdRNWe87KQIS/view)
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
-- ⚡ Fun fact **The world Runs on 0s and 1s. Believe it or Not.**
+**I Mostly Code in Python** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/irfan_k9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irfan_k9" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/irfan-ansari-921b9825a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irfan-ansari-921b9825a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/irfanansariai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="irfanansariai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/irfan_iiitr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="irfan_iiitr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/imirfansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imirfansari" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/irfan_iitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="irfan_iitr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imirfasp2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imirfasp2k" height="30" width="40" /></a>
+```text
+Python                   17 repos            █████████████░░░░░░░░░░░░   53.12 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+
+ Last Updated on 28/08/2025 18:57:31 UTC
+<!--END_SECTION:waka-->
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irfan-iiitr/irfan-iiitr/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!--- Footer Stats - Social Media Status and Contact -->
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irfan-iiitr&color=green" alt="Profile Views" />
+  <a href="https://twitter.com/Mehfooj194108">
+    <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://discord.com/invite/savvyethelegend">
+    <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&logo=discord&logoColor=white&color=5865F2" alt="Join Discord" />
+  </a>
+  <a href="https://github.com/irfan-iiitr?tab=stars">
+    <img src="https://img.shields.io/github/stars/irfan-iiitr?label=Star%20Gazers&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/irfan-iiitr">
+    <img src="https://img.shields.io/github/followers/irfan-iiitr?style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfan-iiitr&show_icons=true&locale=en&layout=compact" alt="irfan-iiitr" /></p>
+<p align="center">
+  <strong>Always building something cool</strong> — <em>open to open source collaborations</em>, freelance work, and fun side-projects. <br>
+  <strong><a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">Let’s connect on LinkedIn</a></strong> ⚡
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan-iiitr&show_icons=true&locale=en" alt="irfan-iiitr" /></p>
+
