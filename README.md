@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 
-<details>
+
   <br>
   <br>
 <summary><b>⚙️ GitHub Analytics</b></summary>
@@ -8,7 +8,6 @@
   <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/irfan-iiitr/irfan-iiitr/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt=" GitHub Profile Details" />
   <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/irfan-iiitr/irfan-iiitr/main/profile-summary-card-output/github_dark/3-stats.svg" alt="irfan-iiitr GitHub Stats" />
 </a>
-</details> 
 
 
 <!--START_SECTION:activity-->
